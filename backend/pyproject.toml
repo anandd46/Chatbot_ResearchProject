@@ -1,0 +1,9 @@
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "W", "I"]
+ignore = ["E501"]
+target-version = "py311"
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
