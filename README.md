@@ -1,4 +1,3 @@
-
 # Smart College AI Chatbot
 
 > A production-ready, full-stack intelligent virtual assistant for college institutions — built with a custom multi-signal NLP pipeline, a React admin panel, JWT authentication, and a fully containerised deployment stack.
